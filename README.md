@@ -1,7 +1,6 @@
 # Fraudulent-Claim-on-Cars-Physical-Damage
  An in-depth analysis of car insurance claims from the USA was conducted, aimed at identifying fraudulent activities through advanced data analytics and machine learning models. The project focused on uncovering patterns and trends in car insurance fraud to mitigate financial risks for insurance companies. Python, R, were utilized to carry out the analysis on a dataset containing 17,998 claims sourced from Kaggle.
-
-    Key highlights include :
+Key highlights include :
 
     Data Preprocessing: Missing values were addressed, and one-hot encoding was applied to categorical variables.
 
